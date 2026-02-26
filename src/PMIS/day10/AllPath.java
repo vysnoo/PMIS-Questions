@@ -6,9 +6,6 @@ public class AllPath {
         //int m = 2, n = 3;
         int m = 1, n = 4;
         System.out.println(uniquePaths(m,n));
-
-
-
     }
     static int[][] dp;
 
